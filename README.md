@@ -1,4 +1,4 @@
-# Book-bot
+# Readers-bot
 Automating Book searching and downloading
 
 Dependencies - <br/>
