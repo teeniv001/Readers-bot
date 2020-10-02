@@ -5,7 +5,8 @@ import requests
       
 global details
 details = {}
-   
+ 
+ # using selenium to automate the process
 def getDownloadLink(url):
     driver = webdriver.Chrome('C:/Users/vineet/Downloads/chromedriver.exe')
     driver.get(url)
