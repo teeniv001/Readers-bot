@@ -19,7 +19,7 @@ def readOnline(url):
     online = driver.find_element_by_xpath('/html/body/table/tbody/tr[2]/td/div/div/div/div[2]/div[2]/a[3]')
     online.click()
     
-    
+global l # len    
 def user_input(details,href,url):
     user=input('Enter your book selection no.: '+'\n')
     l=len(details)
