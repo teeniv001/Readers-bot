@@ -2,7 +2,6 @@
 Automating Book searching and downloading
 
 Dependencies - <br/>
-
 1- BeautifulSoup <br/>
 2- Requests <br/>
 3- Selenium <br/>
